@@ -1,4 +1,3 @@
-# salvoravida
 ```typescript
 <Me born={1982} justCode />
 ```
