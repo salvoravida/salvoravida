@@ -1,11 +1,10 @@
-### Hi there 👋
-```javascript
-<Me born={1982} justCode />
+```typescript
+<Me class="is-not-water" born={1982} justCode />
 ```
 
 <!--
 **salvoravida/salvoravida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
