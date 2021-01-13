@@ -5,6 +5,7 @@ I love creating high-quality products, learning, and running new challenges.
 - 📈 Started playing with C++, Pascal, Masm32 in the '90s.
 - ⛳ Enjoying with Win32, Delphi, C#, Java in the '00s 
 - 💥 Currently in ♥ with NodeJS - Typescript - React - Redux - Recoil
+
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" />](https://www.linkedin.com/in/salvatoreravida/)    [<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/github.svg" />](https://github.com/salvoravida)
 <!--
 **salvoravida/salvoravida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
